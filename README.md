@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## MAGD 150 Sketches
 
-You can use the [editor on GitHub](https://github.com/UnatMar/MAGD-150-Assignments/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a respository for some of my assignments in MAGD 150 at UWW
 
 ### Markdown
 
